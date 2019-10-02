@@ -13,12 +13,12 @@ User interface testing has always been a little weird. Such tests are not easy t
 Slide deck from the Get Some UI In Your CI session.
 
 ### Source Code
-[Wolfram Alpha UI tests with SpecFlow and Selenium for .NET Core 2.2](https://github.com/mcknz/wolfram-net)
+[Wolfram Alpha UI tests with SpecFlow and Selenium for .NET Core 2.2](https://github.com/mcknz/wolfram-net)  
 [Wolfram Alpha UI tests with Cucumber-JVM and Selenium for Java 11](https://github.com/mcknz/wolfram-java)
 
 ### Bio
 Jeff McKenzie has worked in software development for nearly twenty years, in both freelance and full-time capacities, as a developer and team leader. He enjoys helping others solve problems through technology, whether it’s the small business getting on the web for the first time, or a Fortune 500 company expanding its enterprise. Although he started his career using BASIC on an Atari 800, he took a big detour, getting Biology and English degrees before rediscovering programming, with a new thing called the World Wide Web. He is currently a Practice Manager for Applications and Infrastructure at Insight Digital Innovation (formerly Cardinal Solutions) in Columbus Ohio.
 
-<mail@mcknz.com>
-<https://twitter.com/jeffreymckenzie>
-<https://www.linkedin.com/in/mcknz>
+<mail@mcknz.com>  
+<https://twitter.com/jeffreymckenzie>  
+<https://www.linkedin.com/in/mcknz>  
